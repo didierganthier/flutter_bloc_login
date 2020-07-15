@@ -4,6 +4,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:flutterbloclogin/authentification_bloc.dart';
 import 'package:flutterbloclogin/login_bloc.dart';
+import 'package:flutterbloclogin/login_form.dart';
 import 'package:flutterbloclogin/user_repository.dart';
 
 class LoginPage extends StatefulWidget {
