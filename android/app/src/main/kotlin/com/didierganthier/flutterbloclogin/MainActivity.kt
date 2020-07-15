@@ -1,0 +1,6 @@
+package com.didierganthier.flutterbloclogin
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
